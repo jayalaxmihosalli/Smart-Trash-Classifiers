@@ -1,7 +1,6 @@
 streamlit
-tensorflow
+pandas
 numpy
-matplotlib
 scikit-learn
-seaborn
+joblib
 pillow
